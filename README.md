@@ -14,7 +14,7 @@ The summary view should be divided into three main sections: Overview, Demograph
 🔗 [Tableau Summary Dashboard](https://bit.ly/48CSxPD) 
 
 <p align="left">
-	<img src="Dashbord image/Summary_dashbord.png" alt="HR Summary Dashboard" width="800"/>
+	<img src="Dashboard image/Summary_dashbord.png" alt="HR Summary Dashboard" width="800"/>
 </p>
 
 #### Employee Records View
@@ -23,5 +23,5 @@ Provide a comprehensive list of all employees with necessary information such as
 🔗 [HR Detailed Dashbord](https://bit.ly/48CSvqZ)
 
 <p align="left">
-	<img src="Dashbord image/Emp_record_dashbord.png" alt="HR Detail Dashboard" width="800"/>
+	<img src="Dashboard image/Emp_record_dashbord.png" alt="HR Detail Dashboard" width="800"/>
 </p>
